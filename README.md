@@ -25,6 +25,6 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### Sample portfolio's 
-1. melissa-longenberger.com
+1. https://melissa-longenberger.com
 2. https://brianhague.dev/
 3. https://www.mrzacsmith.com/
